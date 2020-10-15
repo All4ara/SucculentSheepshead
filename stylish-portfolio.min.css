@@ -22,7 +22,7 @@
  .masthead h1{font-size:4rem;margin:0;padding:0;color: #fff;}
  .masthead h3{color: #fff;}
 @media (min-width:992px){.masthead{height: 50rem;}.masthead h1{font-size:5.5rem;}}
-@media (min-width:375px){.masthead{height: 48rem;}}
+@media (min-width:375px){.masthead{height: 42rem;}}
 #sidebar-wrapper{position:fixed;z-index:2;right:0;width:250px;height:100%;transition:all .4s ease 0s;transform:translateX(250px);background:#1d809f;border-left:1px solid rgba(255,255,255,.1)}
 .sidebar-nav{position:absolute;top:0;width:250px;margin:0;padding:0;list-style:none}
 .sidebar-nav li.sidebar-nav-item a{display:block;text-decoration:none;color:#fff;padding:15px}
