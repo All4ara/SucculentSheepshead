@@ -21,7 +21,7 @@
  .masthead{min-height:50rem;position:relative;display:table;width:100%;height:auto;padding-top:8rem;padding-bottom:8rem;background:linear-gradient(90deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%),url(../img/bg-masthead.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover}
  .masthead h1{font-size:4rem;margin:0;padding:0;color: #fff;}
  .masthead h3{color: #fff;}
-@media (min-width:992px){.masthead{}.masthead h1{font-size:5.5rem;}}
+@media (min-width:992px){.masthead{height: 50rem;}.masthead h1{font-size:5.5rem;}}
 #sidebar-wrapper{position:fixed;z-index:2;right:0;width:250px;height:100%;transition:all .4s ease 0s;transform:translateX(250px);background:#1d809f;border-left:1px solid rgba(255,255,255,.1)}
 .sidebar-nav{position:absolute;top:0;width:250px;margin:0;padding:0;list-style:none}
 .sidebar-nav li.sidebar-nav-item a{display:block;text-decoration:none;color:#fff;padding:15px}
